@@ -25,10 +25,10 @@
                         <a href="#" class="hover:bg-teal-600/70 rounded-md md:p-2 transition-colors duration-300">Conócenos</a>
                     </li>
                     <li>
-                        <a href="#" class="hover:bg-teal-600/70 rounded-md md:p-2 transition-colors duration-300 block">Inicia sesión</a>
+                        <a href="/login" class="hover:bg-teal-600/70 rounded-md md:p-2 transition-colors duration-300 block">Inicia sesión</a>
                     </li>
                     <li>
-                        <a href="#" class="hover:bg-teal-600/70 rounded-md md:p-2 transition-colors duration-300">Regístrate</a>
+                        <a href="/register" class="hover:bg-teal-600/70 rounded-md md:p-2 transition-colors duration-300">Regístrate</a>
                     </li>
                 </ul>
             </nav>
